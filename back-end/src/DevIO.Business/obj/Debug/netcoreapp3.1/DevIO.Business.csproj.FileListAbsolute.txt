@@ -1,0 +1,10 @@
+G:\DevProjetos\SPA\curso-devio\demo-completa-deprecated\back-end\back-end\src\DevIO.Business\bin\Debug\netcoreapp3.1\DevIO.Business.deps.json
+G:\DevProjetos\SPA\curso-devio\demo-completa-deprecated\back-end\back-end\src\DevIO.Business\bin\Debug\netcoreapp3.1\DevIO.Business.dll
+G:\DevProjetos\SPA\curso-devio\demo-completa-deprecated\back-end\back-end\src\DevIO.Business\bin\Debug\netcoreapp3.1\DevIO.Business.pdb
+G:\DevProjetos\SPA\curso-devio\demo-completa-deprecated\back-end\back-end\src\DevIO.Business\obj\Debug\netcoreapp3.1\DevIO.Business.csproj.AssemblyReference.cache
+G:\DevProjetos\SPA\curso-devio\demo-completa-deprecated\back-end\back-end\src\DevIO.Business\obj\Debug\netcoreapp3.1\DevIO.Business.GeneratedMSBuildEditorConfig.editorconfig
+G:\DevProjetos\SPA\curso-devio\demo-completa-deprecated\back-end\back-end\src\DevIO.Business\obj\Debug\netcoreapp3.1\DevIO.Business.AssemblyInfoInputs.cache
+G:\DevProjetos\SPA\curso-devio\demo-completa-deprecated\back-end\back-end\src\DevIO.Business\obj\Debug\netcoreapp3.1\DevIO.Business.AssemblyInfo.cs
+G:\DevProjetos\SPA\curso-devio\demo-completa-deprecated\back-end\back-end\src\DevIO.Business\obj\Debug\netcoreapp3.1\DevIO.Business.csproj.CoreCompileInputs.cache
+G:\DevProjetos\SPA\curso-devio\demo-completa-deprecated\back-end\back-end\src\DevIO.Business\obj\Debug\netcoreapp3.1\DevIO.Business.dll
+G:\DevProjetos\SPA\curso-devio\demo-completa-deprecated\back-end\back-end\src\DevIO.Business\obj\Debug\netcoreapp3.1\DevIO.Business.pdb
